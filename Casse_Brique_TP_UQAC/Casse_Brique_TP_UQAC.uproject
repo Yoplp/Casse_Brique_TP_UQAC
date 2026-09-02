@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6049A302-436C-7E89-AAB4-B0B020707027}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Casse_Brique_TP_UQAC",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
